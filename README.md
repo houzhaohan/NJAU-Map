@@ -6,15 +6,15 @@
 
 可以双击start.bat启动批处理文件
 
-![1-1](docs\images\1-1.png)
+![1-1](docs/images/1-1.png)
 
 
 
 浏览器打开 http://127.0.0.1:7777
 
-![1-2](docs\images\1-2.png)
+![1-2](docs/images/1-2.png)
 
-![1-3](docs\images\1-3.png)
+![1-3](docs/images/1-3.png)
 
 1-4
 
@@ -22,7 +22,7 @@
 
 注册账号
 
-![1-5](docs\images\1-5.png)
+![1-5](docs/images/1-5.png)
 
 
 
@@ -30,21 +30,21 @@
 
 点击地图上的点，可以收藏该点
 
-![2-1](docs\images\2-1.png)
+![2-1](docs/images/2-1.png)
 
 
 
 可以在下拉框中选择起点和终点
 
-![2-2](docs\images\2-2.png)
+![2-2](docs/images/2-2.png)
 
 
 
 例如：信息管理学院到园艺学院
 
-![2-3](docs\images\2-3.png)
+![2-3](docs/images/2-3.png)
 
-![2-4](docs\images\2-4.png)
+![2-4](docs/images/2-4.png)
 
 
 
@@ -54,14 +54,14 @@
 
 输入一段文字，例如：信管院到园艺院
 
-![2-5](docs\images\2-5.png)
+![2-5](docs/images/2-5.png)
 
-![2-6](docs\images\2-6.png)
+![2-6](docs/images/2-6.png)
 
 
 
 可以查看历史记录
-![3-1](docs\images\3-1.png)
+![3-1](docs/images/3-1.png)
 
 
 
@@ -71,7 +71,7 @@
 
 可以看到之前收藏的地点和路线
 
-![3-2](docs\images\3-2.png)
+![3-2](docs/images/3-2.png)
 
 点击查看兴趣点，会在地图上显示这个兴趣点的信息
 
@@ -81,13 +81,13 @@
 
 管理员登录
 
-![4-1](docs\images\4-1.png)
+![4-1](docs/images/4-1.png)
 
 
 
 管理员面板
 
-![4-2](docs\images\4-2.png)
+![4-2](docs/images/4-2.png)
 
 
 
@@ -102,5 +102,6 @@
 
 
 > 需求分析报告、详细设计报告、系统安装说明、系统使用说明在docs文件夹中
+
 
 > 管理信息系统实践课小组作业
